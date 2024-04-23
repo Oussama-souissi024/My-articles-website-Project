@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98D81F8-C240-420F-9FC5-8D8B65E98E68}|MyArticlesWebsiteProject.Core\\MyArticlesWebsiteProject.Core.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\myarticleswebsiteproject.core\\authorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98D81F8-C240-420F-9FC5-8D8B65E98E68}|MyArticlesWebsiteProject.Core\\MyArticlesWebsiteProject.Core.csproj|solutionrelative:myarticleswebsiteproject.core\\authorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA474992-06B2-4ADB-AADD-8EB5B9F43ED9}|MyArticlesWebsiteProjectData\\MyArticlesWebsiteProject.Data.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\myarticleswebsiteprojectdata\\sqlserveref\\authorpostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA474992-06B2-4ADB-AADD-8EB5B9F43ED9}|MyArticlesWebsiteProjectData\\MyArticlesWebsiteProject.Data.csproj|solutionrelative:myarticleswebsiteprojectdata\\sqlserveref\\authorpostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\PostController.cs",
+              "RelativeToolTip": "My articles website Project\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwO0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:26:33.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "My articles website Project\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:26:28.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "My articles website Project\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:25:56.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Program.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Program.cs",
+              "RelativeToolTip": "My articles website Project\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:16:53.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorPost.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProject.Core\\AuthorPost.cs",
+              "RelativeDocumentMoniker": "MyArticlesWebsiteProject.Core\\AuthorPost.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProject.Core\\AuthorPost.cs",
+              "RelativeToolTip": "MyArticlesWebsiteProject.Core\\AuthorPost.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:47:23.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorPostEntity.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
+              "RelativeDocumentMoniker": "MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
+              "RelativeToolTip": "MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwF0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:41:29.676Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

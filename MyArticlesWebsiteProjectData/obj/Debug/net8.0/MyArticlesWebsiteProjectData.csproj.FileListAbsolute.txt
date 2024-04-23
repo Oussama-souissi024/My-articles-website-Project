@@ -1,0 +1,17 @@
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\bin\Debug\net8.0\MyArticlesWebsiteProjectData.deps.json
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\bin\Debug\net8.0\MyArticlesWebsiteProjectData.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\bin\Debug\net8.0\MyArticlesWebsiteProjectData.pdb
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.AssemblyInfoInputs.cache
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.AssemblyInfo.cs
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\refint\MyArticlesWebsiteProjectData.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.pdb
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\ref\MyArticlesWebsiteProjectData.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\bin\Debug\net8.0\MyArticlesWebsiteProjectData.runtimeconfig.json
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\bin\Debug\net8.0\MyArticlesWebsiteProject.Core.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\bin\Debug\net8.0\MyArticlesWebsiteProject.Core.pdb
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.csproj.AssemblyReference.cache
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticl.95B9FD5B.Up2Date
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProjectData.genruntimeconfig.cache

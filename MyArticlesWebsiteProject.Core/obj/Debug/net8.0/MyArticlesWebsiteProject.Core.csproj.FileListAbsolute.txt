@@ -1,0 +1,11 @@
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\bin\Debug\net8.0\MyArticlesWebsiteProject.Core.deps.json
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\bin\Debug\net8.0\MyArticlesWebsiteProject.Core.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\bin\Debug\net8.0\MyArticlesWebsiteProject.Core.pdb
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\MyArticlesWebsiteProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\MyArticlesWebsiteProject.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\MyArticlesWebsiteProject.Core.AssemblyInfo.cs
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\MyArticlesWebsiteProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\MyArticlesWebsiteProject.Core.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\refint\MyArticlesWebsiteProject.Core.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\MyArticlesWebsiteProject.Core.pdb
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProject.Core\obj\Debug\net8.0\ref\MyArticlesWebsiteProject.Core.dll

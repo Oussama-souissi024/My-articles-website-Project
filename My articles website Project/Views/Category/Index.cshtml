@@ -1,0 +1,57 @@
+﻿@model IEnumerable<MyArticlesWebsiteProject.Core.Category>
+
+@{
+	ViewData["Title"] = "Caterogy List";
+	Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Category</h1>
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<br />
+<form method="get" asp-action="Search">
+	<input type="search" name="SearchItem" class="search-field" />
+	<input type="submit" value="Search" />
+</form>
+<table class="table table-striped">
+	<thead class="thead-dark">
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.ID)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Name)
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.ID)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Name)
+				</td>
+				<td>
+					<a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+					<a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+@{
+	if (Model.ToList().Count < 5)
+	{
+		int id = 0;
+		<a asp-action="Index" asp-route-id="@id">First</a>
+	}
+	else
+	{
+		<a asp-action="Index" asp-route-id="@Model.ToList().Last().ID">Next</a>
+	}
+}

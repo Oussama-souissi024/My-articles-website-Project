@@ -1,0 +1,27 @@
+﻿@page "{id:int}"
+@model My_articles_website_Project.Pages.ArticleModel
+@{
+}
+
+<section class="bounce animated article-clean">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
+				<div class="intro">
+					<h1 class="text-center" style="font-family: Cairo, sans-serif;">@Model.post.PostTitle</h1>
+					<p class="text-center"><span class="by">by</span> <a href="#">@Model.post.FullName</a><span class="date">@Model.post.AddedDate</span></p><img class="img-fluid" src="~/images/@Model.post.PostImageUrl">
+				</div>
+				<div class="text">
+					<p class="text-start" style="font-family: Cairo, sans-serif;">
+						<br><br>@Model.post.PostDescription<br><br>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div data-aos="zoom-in" class="social-icons">
+		<a href="/Index"><h3 style="font-family: Cairo, sans-serif;">Home Page</h3></a>
+		<h3 style="font-family: Cairo, sans-serif;">Share the Article</h3><i class="icon ion-social-twitter"></i><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"></a>
+	</div>
+</section>
+

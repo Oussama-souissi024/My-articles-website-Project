@@ -1,0 +1,70 @@
+﻿@page
+@model MyArticlesWebsiteProject.Pages.AllUsersModel
+@{
+}
+<section class="bounce animated article-clean">
+    <div class="container">
+        <section class="team-boxed">
+            <div class="container">
+                <div class="intro">
+                    <h2 class="text-center" style="font-family: Cairo, sans-serif;">Our publishers</h2>
+                </div>
+                <form class="me-auto search-form" target="_self">
+                    <div class="d-flex align-items-center">
+                        <label class="form-label d-flex mb-0" for="search-field">
+                            <i class="fa fa-search"></i>
+                        </label>
+                        <input type="hidden" value="Search" name="LoadState" />
+
+                        <input class="form-control search-field" type="search" id="search-field" name="search" placeholder="Find Publisher" style="font-family: Cairo, sans-serif;">
+                        <input type="submit" class="form-control bg-danger btn-secondary" value="Find Publisher" />
+                    </div>
+                </form>
+                <div class="row people">
+                    @{
+                        foreach (var Item in Model.ListOfAuthors)
+                        {                          
+                                <div class="col-md-6 col-lg-4 item" data-aos="zoom-out">
+                                    <div class="box">
+                                        <img class="rounded-circle" src="~/images/@Item.ProfileImageUrl">
+                                        <h3 style="font-family:Cairo" class="name">@Item.FullName</h3>
+                                        <p style="font-family:Cairo" class="description">@Item.Bio</p>
+                                        <div class="social"><a href="@Item.Facebook"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                                    </div>
+                                </div>                         
+                        }
+                    }
+                </div>               
+            </div>
+            <nav class="text-center float-end" style="font-family: Lato, sans-serif;border-color: var(--bs-red);margin: 10px;">
+                <ul class="pagination">
+                    @{
+                        <form method="get" class="m-2">
+                            <input type="hidden" value="All" name="LoadState" />
+                            <input type="submit" class="form-control bg-danger" value="First" />
+                        </form>
+
+                        if (Model.ListOfAuthors.Count > 0)
+                        {
+                            <form method="get" class="m-2">
+                                <input type="hidden" value="Prev" name="LoadState" />
+                                <input type="hidden" value="@Model.ListOfAuthors.First().ID" name="id" />
+                                <input type="submit" class="form-control bg-danger" value="Next" />
+                            </form>
+                        }
+                        if (Model.ListOfAuthors.Count == Model.NoOfItem)
+                        {
+                            <form method="get" class="m-2">
+                                <input type="hidden" value="Next" name="LoadState" />
+                                <input type="hidden" value="@Model.ListOfAuthors.Last().ID" name="id" />
+                                <input type="submit" class="form-control bg-info" value="Prev" />
+                            </form>
+                        }
+
+                    }
+
+                </ul>
+            </nav>
+        </section>
+    </div>
+</section>
