@@ -15,3 +15,4 @@ C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsite
 C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProject.Data.pdb
 C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProject.Data.genruntimeconfig.cache
 C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\ref\MyArticlesWebsiteProject.Data.dll
+C:\Users\admin\source\Dot Net Core\My articles website Project\MyArticlesWebsiteProjectData\obj\Debug\net8.0\MyArticlesWebsiteProject.Data.sourcelink.json

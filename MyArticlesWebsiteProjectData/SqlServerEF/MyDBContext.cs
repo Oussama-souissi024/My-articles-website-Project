@@ -14,10 +14,15 @@ namespace MyArticlesWebsiteProject.Data.SqlServerEF
 	{
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=.\\SQL5113.site4now.net;Database=db_aa7093_myarticleswebsit;User Id=db_aa7093_myarticleswebsit_admin;Password=2009OUssama024#;timeout=120");
+            //optionsBuilder.UseSqlServer(@"Server=.;Database=My_articles_website_Project;User Id=sa;Password=sa123456;Encrypt=True;TrustServerCertificate=True;Trusted_Connection=True;"
+            optionsBuilder.UseSqlServer(@"Data Source=SQL8006.site4now.net;Initial Catalog=db_aa9f9e_myarticleswebsit;User Id=db_aa9f9e_myarticleswebsit_admin;Password=2009OUssama024#;TrustServerCertificate=True;"
+
+);
+                
         }
         public DbSet<Category> Category { get; set; }
         public DbSet<Author> Author { get; set; }
+
         public DbSet<AuthorPost> AuthorPost { get; set; }
 }
 }

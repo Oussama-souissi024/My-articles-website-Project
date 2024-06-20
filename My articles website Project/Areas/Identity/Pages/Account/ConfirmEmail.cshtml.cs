@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.WebUtilities;
 
 namespace My_articles_website_Project.Areas.Identity.Pages.Account
@@ -17,10 +18,12 @@ namespace My_articles_website_Project.Areas.Identity.Pages.Account
     public class ConfirmEmailModel : PageModel
     {
         private readonly UserManager<IdentityUser> _userManager;
+        private readonly ILogger<ConfirmEmailModel> _logger;
 
-        public ConfirmEmailModel(UserManager<IdentityUser> userManager)
+        public ConfirmEmailModel(UserManager<IdentityUser> userManager, ILogger<ConfirmEmailModel> logger)
         {
             _userManager = userManager;
+            this._logger = logger;
         }
 
         /// <summary>
@@ -31,6 +34,9 @@ namespace My_articles_website_Project.Areas.Identity.Pages.Account
         public string StatusMessage { get; set; }
         public async Task<IActionResult> OnGetAsync(string userId, string code)
         {
+
+            _logger.LogInformation("UserId: {UserId}, Code: {Code}", userId, code);
+
             if (userId == null || code == null)
             {
                 return RedirectToPage("/Index");

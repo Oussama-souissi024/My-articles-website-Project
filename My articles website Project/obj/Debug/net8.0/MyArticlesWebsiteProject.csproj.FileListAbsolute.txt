@@ -289,3 +289,4 @@ C:\Users\admin\source\Dot Net Core\My articles website Project\My articles websi
 C:\Users\admin\source\Dot Net Core\My articles website Project\My articles website Project\obj\Debug\net8.0\MyArticlesWebsiteProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\admin\source\Dot Net Core\My articles website Project\My articles website Project\bin\Debug\net8.0\MyArticlesWebsiteProject.Data.dll
 C:\Users\admin\source\Dot Net Core\My articles website Project\My articles website Project\bin\Debug\net8.0\MyArticlesWebsiteProject.Data.pdb
+C:\Users\admin\source\Dot Net Core\My articles website Project\My articles website Project\obj\Debug\net8.0\MyArticlesWebsiteProject.sourcelink.json

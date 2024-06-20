@@ -11,7 +11,7 @@ namespace My_articles_website_Project.Code
             var smtpclient = new SmtpClient("smtp.gmail.com")
             {
                 Port = 587,
-                Credentials = new NetworkCredential("oussama.souissi024@gmail.com", "avwmbsfszcvaaspr"),
+                Credentials = new NetworkCredential("oussama.souissi024@gmail.com", "sfjyzzzjeawsqzgn"),
                 EnableSsl = true
             };
 

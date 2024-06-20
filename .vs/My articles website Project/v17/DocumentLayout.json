@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E98D81F8-C240-420F-9FC5-8D8B65E98E68}|MyArticlesWebsiteProject.Core\\MyArticlesWebsiteProject.Core.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\myarticleswebsiteproject.core\\authorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98D81F8-C240-420F-9FC5-8D8B65E98E68}|MyArticlesWebsiteProject.Core\\MyArticlesWebsiteProject.Core.csproj|solutionrelative:myarticleswebsiteproject.core\\authorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA474992-06B2-4ADB-AADD-8EB5B9F43ED9}|MyArticlesWebsiteProjectData\\MyArticlesWebsiteProject.Data.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\myarticleswebsiteprojectdata\\sqlserveref\\authorpostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA474992-06B2-4ADB-AADD-8EB5B9F43ED9}|MyArticlesWebsiteProjectData\\MyArticlesWebsiteProject.Data.csproj|solutionrelative:myarticleswebsiteprojectdata\\sqlserveref\\authorpostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|c:\\users\\admin\\source\\dot net core\\my articles website project\\my articles website project\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3115705-84DD-4744-95B2-42331C22561E}|My articles website Project\\MyArticlesWebsiteProject.csproj|solutionrelative:my articles website project\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,78 +61,122 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "My articles website Project\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\PostController.cs",
-              "RelativeToolTip": "My articles website Project\\Controllers\\PostController.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAgwO0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:26:33.89Z",
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "My articles website Project\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "My articles website Project\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T16:13:48.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "My articles website Project\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "My articles website Project\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:26:28.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\AuthorController.cs",
-              "RelativeDocumentMoniker": "My articles website Project\\Controllers\\AuthorController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Controllers\\AuthorController.cs",
-              "RelativeToolTip": "My articles website Project\\Controllers\\AuthorController.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAqwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:25:56.605Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "My articles website Project\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "My articles website Project\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T16:12:21.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Program.cs",
-              "RelativeDocumentMoniker": "My articles website Project\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Program.cs",
-              "RelativeToolTip": "My articles website Project\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwEwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:16:53.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorPost.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProject.Core\\AuthorPost.cs",
-              "RelativeDocumentMoniker": "MyArticlesWebsiteProject.Core\\AuthorPost.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProject.Core\\AuthorPost.cs",
-              "RelativeToolTip": "MyArticlesWebsiteProject.Core\\AuthorPost.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAcwCgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:47:23.222Z",
+              "WhenOpened": "2024-06-20T09:46:14.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthorPostEntity.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
-              "RelativeDocumentMoniker": "MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
-              "RelativeToolTip": "MyArticlesWebsiteProjectData\\SqlServerEF\\AuthorPostEntity.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwF0AAAAKAAAA",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "My articles website Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAmwLIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:41:29.676Z"
+              "WhenOpened": "2024-06-19T17:03:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:52:12.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "My articles website Project\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T16:52:09.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "My articles website Project\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T17:22:18.166Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -289,6 +289,10 @@
       "PackagePath": "staticwebassets\\images\\afaf2077-835c-493a-9d07-649495884310-What-is-C-used-for.png"
     },
     {
+      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\images\\b498a992-22bd-4d2a-a232-3e26459e88e7-Kaïs-Saïed-2.jpg",
+      "PackagePath": "staticwebassets\\images\\b498a992-22bd-4d2a-a232-3e26459e88e7-Kaïs-Saïed-2.jpg"
+    },
+    {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\images\\b9c11d11-c52a-44f0-b860-9320e0037f34-business_advantages_of_data_analysis.jpg",
       "PackagePath": "staticwebassets\\images\\b9c11d11-c52a-44f0-b860-9320e0037f34-business_advantages_of_data_analysis.jpg"
     },
@@ -307,6 +311,10 @@
     {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\images\\d1a0259e-f7f6-41c8-a03c-36d597169ec0-c.jpg",
       "PackagePath": "staticwebassets\\images\\d1a0259e-f7f6-41c8-a03c-36d597169ec0-c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\images\\d604bb91-d310-4fe8-958b-1937f89fa935-R.png",
+      "PackagePath": "staticwebassets\\images\\d604bb91-d310-4fe8-958b-1937f89fa935-R.png"
     },
     {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\images\\e36c8f53-b832-4b33-a16e-fe3192004e12-oussama.png",
@@ -425,10 +433,6 @@
       "PackagePath": "staticwebassets\\js\\freelancer.js"
     },
     {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\js\\theme.js",
       "PackagePath": "staticwebassets\\js\\theme.js"
     },
@@ -453,22 +457,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
@@ -483,54 +471,6 @@
     {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -549,22 +489,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
@@ -579,22 +503,6 @@
     {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
       "Id": "C:\\Users\\admin\\source\\Dot Net Core\\My articles website Project\\My articles website Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
